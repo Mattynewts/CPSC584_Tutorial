@@ -5,3 +5,9 @@ This github aims to capture all the required material and documentation needed t
 We will be using the Sunfounder PiCrawler kit throughout this class: 
 https://docs.sunfounder.com/projects/pi-crawler/en/latest/index.html
 
+
+
+# Part 1: Building the robot
+
+Before we can do any coding we need to first build the robots. Using the
+
