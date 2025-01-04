@@ -16,12 +16,12 @@ https://youtu.be/2gxxvL2_hR8?si=bQad0wxxyRabNjkX
 
 # Part 2: Using EzBlock Application to Control to the Robot
 **Important - EzBlock will not work if you are using a Raspberry Pi 5**
-If you are using a Raspberry Pi 5 you will need to follow the guide for using python to control the robot
+-> If you are using a Raspberry Pi 5 you will need to follow the guide for using python to control the robot
 
 ## Software Setup Summary:
-1. Install EzBlock OS to a micro SD card -> https://docs.sunfounder.com/projects/ezblock3/en/latest/quick_guide_3.2/install_ezblock_os.html#install-ezblock-os-latest
-2. Zero the servo motors following steps from the following link -> https://docs.sunfounder.com/projects/pi-crawler/en/latest/ezblock/quick_guide_on_ezblock.html
-    (you can ignore the plug in USB-C part since we are using the older Robot HATs. Just ensure your batteries are charged)
+1. Install EzBlock OS to a micro SD card (https://docs.sunfounder.com/projects/ezblock3/en/latest/quick_guide_3.2/install_ezblock_os.html#install-ezblock-os-latest)
+2. Zero the servo motors following steps from the following link (https://docs.sunfounder.com/projects/pi-crawler/en/latest/ezblock/quick_guide_on_ezblock.html)
+(you can ignore the plug in USB-C part since we are using the older Robot HATs. Just ensure your batteries are charged)
 
 
 All the Software Setup Summary can be found in the documentation provided by Sunfounder:
