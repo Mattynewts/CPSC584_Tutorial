@@ -42,7 +42,17 @@ Once the servo motors have been successfully zeroed you can carefully assemble t
 4. Manage your wires from the motors
 
 
-# Part 4: Connecting to your robot and "Hello World" exercise
+# Part 4: Connecting to your robot and sample programs
+Using this link: https://docs.sunfounder.com/projects/pi-crawler/en/latest/ezblock/get_start_app.html
+1. Install EzBlock application or use the web app
+2. Configure wifi/bluetooth on your device and connect to the robot in app.
+3. **Calibrate the picrawler motors using this guide** https://docs.sunfounder.com/projects/pi-crawler/en/latest/ezblock/calibrate.html
+4. Finally run sample programs and play around with your robot!
+
+
+# Part 5: Robot "Hello World" Excercise 
+
+
 
 
 
