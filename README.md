@@ -10,7 +10,7 @@ https://docs.sunfounder.com/projects/pi-crawler/en/latest/index.html
 # Part 1: Building the robot Head
 **Do not build the robot legs yet as we will want to install software and zero motors before doing so**
 
-Before we can do any coding we need to first build the robots. Start using the included instructions with the kit. 
+Before we can do any coding we need to first build the robot head. Start using the included instructions with the kit. 
 You can use this video if you are having trouble or need a reference visual: 
 https://youtu.be/2gxxvL2_hR8?si=bQad0wxxyRabNjkX
 
