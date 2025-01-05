@@ -42,7 +42,7 @@ Once the servo motors have been successfully zeroed you can carefully assemble t
 4. Manage your wires from the motors
 
 
-# Part 4: Connecting and your robot "Hello World" exercise
+# Part 4: Connecting to your robot and "Hello World" exercise
 
 
 
