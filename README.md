@@ -14,7 +14,7 @@ Before we can do any coding we need to first build the robot head. Start using t
 You can use this video if you are having trouble or need a reference visual: 
 https://youtu.be/2gxxvL2_hR8?si=bQad0wxxyRabNjkX
 
-# Part 2: Using EzBlock Application to Control to the Robot
+# Part 2: Using EzBlock Application to Control the Robot
 **Important - EzBlock will not work if you are using a Raspberry Pi 5**
 - If you are using a Raspberry Pi 5 you will need to follow the guide for using python to control the robot
 
