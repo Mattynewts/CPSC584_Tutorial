@@ -51,7 +51,7 @@ Using this link: https://docs.sunfounder.com/projects/pi-crawler/en/latest/ezblo
 
 
 # Part 5: Robot "Hello World" Excercise 
-
+Now that you have successfully set up your robot you can start to work on the "Hello World" excercise which can be found in your project handout.
 
 
 
