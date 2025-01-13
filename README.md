@@ -61,27 +61,44 @@ This video also gives a run down of what is needed for this part:
 https://youtu.be/2gxxvL2_hR8?t=626
 
 
-# Part 3: Leg Assembly
-Once the servo motors have been successfully zeroed you can carefully assemble the legs.
+# Part 5: Leg Assembly
+Once the servo motors have been successfully zeroed you can carefully assemble the legs using the included guide in the kit.
 **Take care to not move servo motors once zeroed otherwise you will have to redo the zeroing**
 
-
 ## Key Building Notes:
-1. Keep small screws and bolts organized
-2. Ensure you correctly zero all servo motors
-3. Attach the legs to motors at the correct angle
-4. Manage your wires from the motors
+1. Keep small screws and bolts organized.
+2. Ensure you correctly zero all servo motors.
+3. Attach the legs to motors at the correct angle.
+4. Manage your wires from the motors.
 
 
-# Part 4: Connecting to your robot and sample programs
+# Part 6: Wifi Configuration 
+By the time we have build our robots the MAC addresses should be added to the router.
+
+### Start up your Raspberry Pi as in Part 2 then do the following:
+1. Type "sudo raspi-config" into the command line.
+2. Select "1 System Options      Configure system settings"
+![PiSysOptions](https://github.com/user-attachments/assets/c30a0cd0-8f51-457b-9983-cc4163893209)
+4. Select "S1 Wireless LAN       Enter SSID and passphrase"
+![WirelessLan](https://github.com/user-attachments/assets/6dd247b5-40c0-49b3-ba90-71c6fa7cabfc)
+6. Enter the SSID of the wifi. This is just the wifi name.
+7. Enter the passphrase of the wifi.
+8. Select Ok.
+9. Select Finish.
+
+
+You should now be successfully connected to the internet and ready to connect to your robot!
+
+
+# Part 7: Connecting to your robot and sample programs
 Using this link: https://docs.sunfounder.com/projects/pi-crawler/en/latest/ezblock/get_start_app.html
-1. Install EzBlock application or use the web app
+1. Install EzBlock application or use the web app.
 2. Configure wifi/bluetooth on your device and connect to the robot in app.
 3. **Calibrate the picrawler motors using this guide** https://docs.sunfounder.com/projects/pi-crawler/en/latest/ezblock/calibrate.html
 4. Finally run sample programs and play around with your robot!
 
 
-# Part 5: Robot "Hello World" Excercise 
+# Part 8: Robot "Hello World" Excercise 
 Now that you have successfully set up your robot you can start to work on the "Hello World" excercise which can be found in your project handout.
 
 
