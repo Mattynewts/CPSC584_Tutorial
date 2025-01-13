@@ -25,9 +25,6 @@ As for the Configure Wireless LAN settings leave them blank for now.
 
 Once your OS has been downloaded onto the SD card you can insert it into the Pi and continue.
 
-All the Software Setup Summary can be found in the documentation provided by Sunfounder:
-https://docs.sunfounder.com/projects/pi-crawler/en/latest/ezblock/quick_guide_on_ezblock.html
-
 
 # Part 2: Getting the Raspberry Pi MAC address:
 For this class, we will need to add the Raspberry Pi MAC address to the classroom wifi router.
