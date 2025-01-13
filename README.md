@@ -5,6 +5,12 @@ This github aims to capture all the required material and documentation needed t
 We will be using the Sunfounder PiCrawler kit throughout this class: 
 https://docs.sunfounder.com/projects/pi-crawler/en/latest/index.html
 
+### Kit requirements:
+1. Raspberry Pi (supplied to you)
+2. Micro SD card for OS
+3. 18650 batteries (you will each be given 2)
+   **ensure your batteries are fully charged for step 4 onwards**
+
 
 # Part 1: Downloading Raspberry Pi OS with EzBlock
 **Important - EzBlock will not work if you are using a Raspberry Pi 5**
@@ -38,21 +44,18 @@ For this class, we will need to add the Raspberry Pi MAC address to the classroo
 So in my case my Pi's MAC address is b8:27:eb:b1:34:3a
 
 
-# Part 1: Building the robot Head
+# Part 3: Building the robot Head
 **Do not build the robot legs yet as we will want to install software and zero motors before doing so**
 
-Before we can do any coding we need to first build the robot head. Start using the included instructions with the kit. 
-You can use this video if you are having trouble or need a reference visual: 
+While we wait for the Raspberry Pi's to be added to the router we can start building. First we will build the robot head using the included instructions with the kit. 
+You can use this video if you are having trouble or need a visual reference: 
 https://youtu.be/2gxxvL2_hR8?si=bQad0wxxyRabNjkX
 
 
+# Part 4: Zeroing the Servo Motors
+**This step is important to ensure our robot has full functionality after assembly**
 
-# Part 2: Using EzBlock Application to Control the Robot
-
-## Software Setup Summary:
-1. Install EzBlock OS to a micro SD card (https://docs.sunfounder.com/projects/ezblock3/en/latest/quick_guide_3.2/install_ezblock_os.html#install-ezblock-os-latest)
-2. Zero the servo motors following steps from the following link (https://docs.sunfounder.com/projects/pi-crawler/en/latest/ezblock/quick_guide_on_ezblock.html -> you can ignore the plug in USB-C part since we are using the older Robot HATs. Just ensure your batteries are charged)
-
+Zero the servo motors following steps from the following link (https://docs.sunfounder.com/projects/pi-crawler/en/latest/ezblock/quick_guide_on_ezblock.html -> you can ignore the plug in USB-C part since we are using the older Robot HATs. Just ensure your batteries are charged)
 
 This video also gives a run down of what is needed for this part:
 https://youtu.be/2gxxvL2_hR8?t=626
