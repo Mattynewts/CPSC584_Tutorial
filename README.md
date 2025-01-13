@@ -92,12 +92,12 @@ You should now be successfully connected to the internet and ready to connect to
 
 
 # Part 7: Connecting to your robot and sample programs
-Using this link: https://docs.sunfounder.com/projects/pi-crawler/en/latest/ezblock/get_start_app.html
 1. Install EzBlock application or use the web app.
-2. Configure wifi/bluetooth on your device and connect to the robot in app.
+2. Use this guide to connect to the robot using your device https://docs.sunfounder.com/projects/ezblock3/en/latest/quick_guide_3.2/connect_product_ezblock.html#connect-product-ezblock-latest.
 3. **Calibrate the picrawler motors using this guide** https://docs.sunfounder.com/projects/pi-crawler/en/latest/ezblock/calibrate.html
 4. Finally run sample programs and play around with your robot!
 
+For more details visit: https://docs.sunfounder.com/projects/pi-crawler/en/latest/ezblock/get_start_app.html
 
 # Part 8: Robot "Hello World" Excercise 
 Now that you have successfully set up your robot you can start to work on the "Hello World" excercise which can be found in your project handout.
