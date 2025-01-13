@@ -86,6 +86,7 @@ By the time we have build our robots the MAC addresses should be added to the ro
 8. Select Ok.
 9. Select Finish.
 
+Here is the full Raspberry Pi documentation if you are interested. https://www.raspberrypi.com/documentation/computers/configuration.html
 
 You should now be successfully connected to the internet and ready to connect to your robot!
 
