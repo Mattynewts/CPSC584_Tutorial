@@ -1,4 +1,4 @@
-# CPSC584_Tutorial
+# CPSC584_Tutorial Documentation
 
 This github aims to capture all the required material and documentation needed to be successful in Computer Science 584 - Human-Robot Interaction 
 
