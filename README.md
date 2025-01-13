@@ -27,7 +27,15 @@ https://docs.sunfounder.com/projects/pi-crawler/en/latest/ezblock/quick_guide_on
 For this class, we will need to add the Raspberry Pi MAC address to the classroom wifi router.
 
 **Once you have completed Part 1 do the following steps to get your MAC address**
+1. Connect your Raspberry Pi to a monitor (HDMI), power supply (Micro USB), keyboard, and mouse.
+2. If software is correct your Pi should boot up and display the log in prompt in a text style format.
+3. Log in using your log in credentials (if you used them).
+4. Type "ifconfig" into the command line.
+5. You will be given information about your networks.
+6. Under the "wlan0" section look for the numbers next to the tag "ether". That is your MAC address.
+![MACAddress](https://github.com/user-attachments/assets/3315a668-99e7-423b-a8c6-b64399d74388)
 
+So in my case my Pi's MAC address is b8:27:eb:b1:34:3a
 
 
 # Part 1: Building the robot Head
