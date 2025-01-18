@@ -14,7 +14,7 @@ https://docs.sunfounder.com/projects/pi-crawler/en/latest/index.html
 
 # Part 1: Downloading Raspberry Pi OS with EzBlock
 **Important - EzBlock will not work if you are using a Raspberry Pi 5**
-- If you are using a Raspberry Pi 5 you will need to follow the guide for using python to control the robot
+- If you are using a Raspberry Pi 5 you will need to follow the Sunfounder guide for using python to control the robot
 - Everyone will be supplied with a Raspberry Pi 3 so this only applies to you if you have your own
 
 ### Download the Software from here:
