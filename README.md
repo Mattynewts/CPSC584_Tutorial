@@ -34,15 +34,17 @@ You can use this video if you are having trouble or need a visual reference:
 https://youtu.be/2gxxvL2_hR8?si=bQad0wxxyRabNjkX
 
 
-# Part 3: Connecting to Wifi
+# Part 3: Connecting the Picrawler to Wifi
 
 **UPDATED**
 We no longer need to collect the MAC addresses for the Raspberry Pi's
 
-We can now simply connect to the tutorial rooms local wifi using SSID and password.
-**Both your phone and PiCrawler need to be connected to the same Wifi in order to work.**
+We can now simply connect to the tutorial rooms local wifi using SSID and password:
 
-Please email me once you get to this part so I can securely give you the log in credentials.
+1. **Both your phone and PiCrawler need to be connected to the same Wifi in order to work.**
+2. Install EzBlock application or use the web app.
+3. Use this guide to connect to the robot using your device https://docs.sunfounder.com/projects/ezblock3/en/latest/quick_guide_3.2/connect_product_ezblock.html#connect-product-ezblock-latest.
+4. Please email me once you get to this part so I can securely give you the log in credentials.
 
 
 # Part 4: Zeroing the Servo Motors
@@ -66,10 +68,8 @@ Once the servo motors have been successfully zeroed you can carefully assemble t
 
 
 # Part 6: Connecting to your robot and sample programs
-1. Install EzBlock application or use the web app.
-2. Use this guide to connect to the robot using your device https://docs.sunfounder.com/projects/ezblock3/en/latest/quick_guide_3.2/connect_product_ezblock.html#connect-product-ezblock-latest.
-3. **Calibrate the picrawler motors using this guide** https://docs.sunfounder.com/projects/pi-crawler/en/latest/ezblock/calibrate.html
-4. Finally run sample programs and play around with your robot!
+1. **Calibrate the picrawler motors using this guide** https://docs.sunfounder.com/projects/pi-crawler/en/latest/ezblock/calibrate.html
+2. Finally run sample programs and play around with your robot!
 
 For more details visit: https://docs.sunfounder.com/projects/pi-crawler/en/latest/ezblock/get_start_app.html
 
