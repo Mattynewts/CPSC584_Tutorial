@@ -26,7 +26,7 @@ As for the Configure Wireless LAN settings leave them blank for now.
 Once your OS has been downloaded onto the SD card you can insert it into the Pi and continue.
 
 
-# Part 2: Getting the Raspberry Pi MAC address:
+~~# Part 2: Getting the Raspberry Pi MAC address:
 For this class, we will need to add the Raspberry Pi MAC address to the classroom wifi router.
 
 **Once you have completed Part 1 do the following steps to get your MAC address**
@@ -38,7 +38,7 @@ For this class, we will need to add the Raspberry Pi MAC address to the classroo
 6. Under the "wlan0" section look for the numbers next to the tag "ether". That is your MAC address.
 ![MACAddress](https://github.com/user-attachments/assets/3315a668-99e7-423b-a8c6-b64399d74388)
 
-So in my case my Pi's MAC address is b8:27:eb:b1:34:3a
+So in my case my Pi's MAC address is b8:27:eb:b1:34:3a~~
 
 
 # Part 3: Building the robot Head
