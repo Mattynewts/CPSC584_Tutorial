@@ -6,7 +6,7 @@ We will be using the Sunfounder PiCrawler kit throughout this class:
 https://docs.sunfounder.com/projects/pi-crawler/en/latest/index.html
 
 ### Kit requirements:
-1. Raspberry Pi (supplied to you)
+1. Raspberry Pi 3 (supplied to you)
 2. Micro SD card for OS
 3. 18650 batteries (you will each be given 2)
    **ensure your batteries are fully charged for step 4 onwards**
@@ -26,19 +26,13 @@ As for the Configure Wireless LAN settings leave them blank for now.
 Once your OS has been downloaded onto the SD card you can insert it into the Pi and continue.
 
 
-~~# Part 2: Getting the Raspberry Pi MAC address:
-For this class, we will need to add the Raspberry Pi MAC address to the classroom wifi router.
+# Part 2: Connecting to Wifi
 
-**Once you have completed Part 1 do the following steps to get your MAC address**
-1. Connect your Raspberry Pi to a monitor (HDMI), power supply (Micro USB), keyboard, and mouse.
-2. If software is correct your Pi should boot up and display the log in prompt in a text style format.
-3. Log in using your log in credentials (if you used them).
-4. Type "ifconfig" into the command line.
-5. You will be given information about your networks.
-6. Under the "wlan0" section look for the numbers next to the tag "ether". That is your MAC address.
-![MACAddress](https://github.com/user-attachments/assets/3315a668-99e7-423b-a8c6-b64399d74388)
+**UPDATED**
+We no longer need to collect the MAC addresses for the Raspberry Pi's
 
-So in my case my Pi's MAC address is b8:27:eb:b1:34:3a~~
+We can now simply connect to the tutorial rooms local wifi using SSID and password.
+Please email me once you get to this part so I can securely give you the log in credentials.
 
 
 # Part 3: Building the robot Head
@@ -69,26 +63,7 @@ Once the servo motors have been successfully zeroed you can carefully assemble t
 4. Manage your wires from the motors.
 
 
-# Part 6: Wifi Configuration 
-By the time we have build our robots the MAC addresses should be added to the router.
-
-### Start up your Raspberry Pi as in Part 2 then do the following:
-1. Type "sudo raspi-config" into the command line.
-2. Select "1 System Options      Configure system settings"
-![PiSysOptions](https://github.com/user-attachments/assets/c30a0cd0-8f51-457b-9983-cc4163893209)
-4. Select "S1 Wireless LAN       Enter SSID and passphrase"
-![WirelessLan](https://github.com/user-attachments/assets/6dd247b5-40c0-49b3-ba90-71c6fa7cabfc)
-6. Enter the SSID of the wifi. This is just the wifi name.
-7. Enter the passphrase of the wifi.
-8. Select Ok.
-9. Select Finish.
-
-Here is the full Raspberry Pi documentation if you are interested. https://www.raspberrypi.com/documentation/computers/configuration.html
-
-You should now be successfully connected to the internet and ready to connect to your robot!
-
-
-# Part 7: Connecting to your robot and sample programs
+# Part 6: Connecting to your robot and sample programs
 1. Install EzBlock application or use the web app.
 2. Use this guide to connect to the robot using your device https://docs.sunfounder.com/projects/ezblock3/en/latest/quick_guide_3.2/connect_product_ezblock.html#connect-product-ezblock-latest.
 3. **Calibrate the picrawler motors using this guide** https://docs.sunfounder.com/projects/pi-crawler/en/latest/ezblock/calibrate.html
@@ -96,7 +71,7 @@ You should now be successfully connected to the internet and ready to connect to
 
 For more details visit: https://docs.sunfounder.com/projects/pi-crawler/en/latest/ezblock/get_start_app.html
 
-# Part 8: Robot "Hello World" Excercise 
+# Part 7: Robot "Hello World" Excercise 
 Now that you have successfully set up your robot you can start to work on the "Hello World" excercise which can be found in your project handout.
 
 
