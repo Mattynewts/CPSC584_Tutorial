@@ -26,21 +26,23 @@ As for the Configure Wireless LAN settings leave them blank for now.
 Once your OS has been downloaded onto the SD card you can insert it into the Pi and continue.
 
 
-# Part 2: Connecting to Wifi
-
-**UPDATED**
-We no longer need to collect the MAC addresses for the Raspberry Pi's
-
-We can now simply connect to the tutorial rooms local wifi using SSID and password.
-Please email me once you get to this part so I can securely give you the log in credentials.
-
-
-# Part 3: Building the robot Head
+# Part 2: Building the robot Head
 **Do not build the robot legs yet as we will want to install software and zero motors before doing so**
 
 While we wait for the Raspberry Pi's to be added to the router we can start building. First we will build the robot head using the included instructions with the kit. 
 You can use this video if you are having trouble or need a visual reference: 
 https://youtu.be/2gxxvL2_hR8?si=bQad0wxxyRabNjkX
+
+
+# Part 3: Connecting to Wifi
+
+**UPDATED**
+We no longer need to collect the MAC addresses for the Raspberry Pi's
+
+We can now simply connect to the tutorial rooms local wifi using SSID and password.
+**Both your phone and PiCrawler need to be connected to the same Wifi in order to work.**
+
+Please email me once you get to this part so I can securely give you the log in credentials.
 
 
 # Part 4: Zeroing the Servo Motors
