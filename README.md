@@ -45,7 +45,7 @@ We can now simply connect to the tutorial rooms local wifi using SSID and passwo
 
 1. Please email me once you get to this part so I can securely give you the log in credentials.
 2. **Both your phone and PiCrawler need to be connected to the same Wifi in order to work.**
-3. Install EzBlock application or use the web app.
+3. Install EzBlock application from the app store. 
 4. Use this guide to connect to the robot using your device https://docs.sunfounder.com/projects/ezblock3/en/latest/quick_guide_3.2/connect_product_ezblock.html#connect-product-ezblock-latest.
 
 
