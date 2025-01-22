@@ -16,6 +16,7 @@ https://docs.sunfounder.com/projects/pi-crawler/en/latest/index.html
 **Important - EzBlock will not work if you are using a Raspberry Pi 5**
 - If you are using a Raspberry Pi 5 you will need to follow the Sunfounder guide for using python to control the robot
 - Everyone will be supplied with a Raspberry Pi 3 so this only applies to you if you have your own
+- We now have SD cards, come ask me for one for your group.
 
 ### Download the Software from here:
 Use the following guide to install the required OS onto your mircoSD card (https://docs.sunfounder.com/projects/ezblock3/en/latest/quick_guide_3.2/install_ezblock_os.html#install-ezblock-os-latest).
