@@ -12,11 +12,19 @@ https://docs.sunfounder.com/projects/pi-crawler/en/latest/index.html
    **ensure your batteries are fully charged for step 4 onwards**
 
 
-# Part 1: Downloading Raspberry Pi OS with EzBlock
+# Part 1: Building the robot Head
+**Do not build the robot legs yet as we will want to install software and zero motors before doing so**
+
+While we wait for the Raspberry Pi's to be added to the router we can start building. First we will build the robot head using the included instructions with the kit. 
+You can use this video if you are having trouble or need a visual reference: 
+https://youtu.be/2gxxvL2_hR8?si=bQad0wxxyRabNjkX
+
+
+# Part 2: Downloading Raspberry Pi OS with EzBlock
 **Important - EzBlock will not work if you are using a Raspberry Pi 5**
 - If you are using a Raspberry Pi 5 you will need to follow the Sunfounder guide for using python to control the robot
 - Everyone will be supplied with a Raspberry Pi 3 so this only applies to you if you have your own
-- We now have SD cards, come ask me for one for your group.
+- **We now have SD cards, come ask me for one for your group.**
 
 ### Download the Software from here:
 Use the following guide to install the required OS onto your mircoSD card (https://docs.sunfounder.com/projects/ezblock3/en/latest/quick_guide_3.2/install_ezblock_os.html#install-ezblock-os-latest).
@@ -26,13 +34,6 @@ As for the Configure Wireless LAN settings leave them blank for now.
 
 Once your OS has been downloaded onto the SD card you can insert it into the Pi and continue.
 
-
-# Part 2: Building the robot Head
-**Do not build the robot legs yet as we will want to install software and zero motors before doing so**
-
-While we wait for the Raspberry Pi's to be added to the router we can start building. First we will build the robot head using the included instructions with the kit. 
-You can use this video if you are having trouble or need a visual reference: 
-https://youtu.be/2gxxvL2_hR8?si=bQad0wxxyRabNjkX
 
 
 # Part 3: Connecting the Picrawler to Wifi
