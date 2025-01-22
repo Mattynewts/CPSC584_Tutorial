@@ -63,10 +63,11 @@ Once the servo motors have been successfully zeroed you can carefully assemble t
 **Take care to not move servo motors once zeroed otherwise you will have to redo the zeroing**
 
 ## Key Building Notes:
-1. Keep small screws and bolts organized.
-2. Ensure you correctly zero all servo motors.
-3. Attach the legs to motors at the correct angle.
-4. Manage your wires from the motors.
+1. **Use the flat servo screw when assembling the servo motors**
+2. Keep small screws and bolts organized.
+3. Ensure you correctly zero all servo motors.
+4. Attach the legs to motors at the correct angle.
+5. Manage your wires from the motors.
 
 
 # Part 6: Connecting to your robot and sample programs
